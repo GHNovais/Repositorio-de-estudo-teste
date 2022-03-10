@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace MiniCalculadora
-
-    class Program
+namespace Mini_Calculadora
+{
+    internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Teste");
             Console.ReadKey();
-            
+
         }
     }
 }
