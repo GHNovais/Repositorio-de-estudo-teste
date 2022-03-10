@@ -27,6 +27,7 @@ namespace Mini_Calculadora
                 Console.WriteLine("\nResultado: "+soma);
                 Console.ReadKey();
             }
+
         }
     }
 }
