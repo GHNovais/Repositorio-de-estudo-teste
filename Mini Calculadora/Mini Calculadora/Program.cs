@@ -11,7 +11,8 @@ namespace Mini_Calculadora
 
             Console.WriteLine("Mini Calculadora");
 
-
+            Console.WriteLine("\nInforme a operaçao: \n+ = Adição\n- = Subtração\n* = multiplicação\n/ = Divisão");
+            Console.ReadLine();
 
         }
     }
