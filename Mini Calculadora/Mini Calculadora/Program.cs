@@ -6,11 +6,8 @@ namespace Mini_Calculadora
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste");
-            Console.ReadKey();
+            Console.WriteLine("Mini Calculadora");
 
-            Console.WriteLine("Teste 2");
-            Console.ReadKey();
         }
     }
 }
