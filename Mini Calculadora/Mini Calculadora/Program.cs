@@ -22,7 +22,7 @@ namespace Mini_Calculadora
                 Console.WriteLine("Informe o segundo número:");
                 num2 = Convert.ToInt32(Console.ReadLine());
 
-                soma = num2 + num1;
+                soma = num1 + num2;
 
                 Console.WriteLine("\nResultado: "+soma);
                 Console.ReadKey();
@@ -37,7 +37,7 @@ namespace Mini_Calculadora
 
                 soma = num1 - num2;
 
-                Console.WriteLine("Resultado: "+soma);
+                Console.WriteLine("\nResultado: "+soma);
                 Console.ReadKey();
             }
             else if (operacao == '*')
@@ -48,10 +48,22 @@ namespace Mini_Calculadora
                 Console.WriteLine("Informe o segundo número:");
                 num2 = Convert.ToInt32(Console.ReadLine());
 
-                soma = num2 * num1;
+                soma = num1 * num2;
 
-                Console.WriteLine("Resultado: "+soma);
+                Console.WriteLine("\nResultado: "+soma);
                 Console.ReadKey();
+            }
+            else if (operacao == '/')
+            {
+                Console.WriteLine("\nInforme o primeiro número:");
+                num1 = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Informe o segundo número:");
+                num2 = Convert.ToInt32(Console.ReadLine());
+
+                soma = num1 / num2;
+
+                Console.WriteLine("\nResultado: "+soma);
             }
         }
     }
