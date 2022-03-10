@@ -64,6 +64,7 @@ namespace Mini_Calculadora
                 soma = num1 / num2;
 
                 Console.WriteLine("\nResultado: "+soma);
+                Console.ReadKey();
             }
             else
             {
