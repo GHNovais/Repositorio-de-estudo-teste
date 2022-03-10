@@ -9,6 +9,8 @@ namespace Mini_Calculadora
             Console.WriteLine("Teste");
             Console.ReadKey();
 
+            Console.WriteLine("Teste 2");
+            Console.ReadKey();
         }
     }
 }
