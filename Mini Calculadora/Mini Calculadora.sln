@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Calculadora", "Mini Calculadora.csproj", "{4F3C11CB-D6A1-4D5B-A57E-42B05AF8DF0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Calculadora", "Mini Calculadora.csproj", "{E31AFC7C-44BA-46DE-B78D-B720085BE72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F3C11CB-D6A1-4D5B-A57E-42B05AF8DF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F3C11CB-D6A1-4D5B-A57E-42B05AF8DF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F3C11CB-D6A1-4D5B-A57E-42B05AF8DF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F3C11CB-D6A1-4D5B-A57E-42B05AF8DF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31AFC7C-44BA-46DE-B78D-B720085BE72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31AFC7C-44BA-46DE-B78D-B720085BE72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31AFC7C-44BA-46DE-B78D-B720085BE72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31AFC7C-44BA-46DE-B78D-B720085BE72A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {706F11D6-2827-4AB4-826A-94990E770791}
+		SolutionGuid = {1F6F1682-827B-471E-878F-60EC238BCCFE}
 	EndGlobalSection
 EndGlobal
