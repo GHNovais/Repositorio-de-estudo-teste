@@ -66,6 +66,11 @@ namespace Mini_Calculadora
                 Console.WriteLine("\nResultado: " + soma);
                 Console.ReadKey();
             }
+            else
+            {
+                Console.WriteLine("Operação inválida");
+                Console.ReadKey();
+            }
         }
     }
 }
