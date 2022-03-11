@@ -1,12 +1,12 @@
-﻿using System;
+﻿ using System;
 
 namespace Mini_Calculadora
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         { 
-        
+            
         }
     }
 }
